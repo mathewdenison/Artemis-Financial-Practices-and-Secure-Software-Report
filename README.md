@@ -15,7 +15,7 @@ What about the process of working through the vulnerability assessment did you f
 How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques? How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
 
-  The ways that I approached the need to increase security layers ways to write code that was executed more efficiently, and confirming that the private and public settors and gettors were implemented correctly. Overall I would make sure that I start with some of the secure coding practices I learned in this course, and then run the vulnerability report to make sure that it is even more secure. I can then learn more and more what I need to do to write secure and efficient code. Overall the combination of the testing of code and running through the vulnerability report taught me better how to write secure code from the beginning which allows me to static test more effectively in the future.
+  The ways that I approached the need to increase security layers ways to write code that was executed more efficiently, and confirming that the private and public setters and getters were implemented correctly. Overall I would make sure that I start with some of the secure coding practices I learned in this course, and then run the vulnerability report to make sure that it is even more secure. I can then learn more and more what I need to do to write secure and efficient code. Overall the combination of the testing of code and running through the vulnerability report taught me better how to write secure code from the beginning which allows me to static test more effectively in the future.
   
 
 What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
@@ -24,4 +24,4 @@ What resources, tools, or coding practices did you employ that you might find he
   
 Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
-  My ability to write effective and secure code when communcating between server and client. Usage of modern technologies and cyphers to validate that my code is indeed secure.
+  My ability to write effective and secure code when communicating between server and client. Usage of modern technologies and cyphers to validate that my code is indeed secure.
